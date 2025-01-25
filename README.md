@@ -1,5 +1,5 @@
 ## code goes bish bash bosh ඞ 
-building [Chateleon](https://chateleon.com) rn, dont know about tomorrow
+building [Chateleon](https://chateleon.com) rn, dont know about tomorrow, might sleep a bit more idk
 
 <!--
 **apparentlyarhm/apparentlyarhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
