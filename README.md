@@ -1,4 +1,5 @@
-## Hi there 👋
+## code goes bish bash bosh ඞ 
+building chateleon.com rn, dont know about tomorrow
 
 <!--
 **apparentlyarhm/apparentlyarhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
